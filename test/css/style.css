@@ -1,0 +1,11 @@
+button{
+  background: #004080;
+  font-family: comic sans ms;
+  font-size: 100px;
+  border: 50px groove #3399ff;
+}
+  body {
+    text-align: center;
+    background-image: url("http://www.spyderonlines.com/images/wallpapers/cool-backgrounds-hd/cool-backgrounds-hd-9.jpg");
+    background-size: cover;
+  }
