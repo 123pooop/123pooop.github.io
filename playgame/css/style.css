@@ -1,0 +1,30 @@
+@import 'https://fonts.googleapis.com/css?family=Lalezar';
+
+body {
+  text-align: center;
+ font-family: Lalezar;
+  background-image: url('https://scontent-hkg3-1.xx.fbcdn.net/t31.0-8/14570512_578117519056705_309916592442379449_o.jpg');
+  background-size: cover;
+  background-repeat: no-repeat
+    
+}
+
+h1 {
+  font-size: 100px;
+  color: #4d94ff;
+  font-family: 'Lalezar', cursive;
+}
+
+#made {
+  font-size: 50px;
+  color: #fff;
+  margin-top: -80px;
+}
+
+h2 {
+  margin-top: 3em;
+  border: 10px solid white;
+  background: #66ccff;
+  margin-left: 24em;
+  margin-right: 24em;
+}
